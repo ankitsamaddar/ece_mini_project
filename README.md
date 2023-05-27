@@ -31,7 +31,7 @@
 
 ## Circuit Diagram
 
-<img title="Circuit Diagram" src="media/circuit_diagram.png" alt="Fig1: Circuit Diagram" data-align="center" width="658">
+<img title="Circuit Diagram" src="/media/circuit_diagram.png" alt="Fig1: Circuit Diagram" data-align="center" width="658">
 
 ## Circuit Simulation
 
@@ -43,7 +43,7 @@ You can open the Proteus file in Proteus software and simulate the circuit to ob
 
 ## Demonstration
 
-<img title="Project Demonstration" src="media/demonstration_image.png" alt="" data-align="center" width="722">
+<img title="Project Demonstration" src="/media/demonstration_image.png" alt="" data-align="center" width="722">
 
 ## Circuit Configuration
 
