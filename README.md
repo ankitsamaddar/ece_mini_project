@@ -27,7 +27,7 @@
 | Resistor  | 100KΩ       | 2        |
 | Resistor  | 2.2MΩ       | 1        |
 | Relay     | 5V          | 1        |
-| Battery   | 5V-12V      | 1        |
+| Battery   | 9V          | 1        |
 
 ## Circuit Diagram
 
